@@ -1,0 +1,89 @@
+/*
+	Put anything you reference with "url()" in ../assets/
+	This way, you can minify your application, and just remove the "source" folder for production
+*/
+.result-window {
+	padding: 0px;
+  background: #D1D1D1;
+  font-size: 16px;
+}
+
+.result-box {
+  padding: 10px;
+  background: #D1D1D1;
+  font-size: 16px;
+}
+
+.summary-box {
+  padding-top: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  background: #D1D1D1;
+  font-size: 16px;  
+}
+
+.env-box {
+  padding-top: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  background: #D1D1D1;
+  font-size: 16px;
+}
+
+.env-title{
+  background: #D1D1D1;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.summary-title{
+  background: #D1D1D1;
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.summary-content{
+  padding: 5px;
+}
+
+.result-title{
+  background: #D1D1D1;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.result-subwindow{
+  padding: 5px;
+  border:1px solid #4c4c4c;
+}
+.result-bold{
+  font-weight:bold !important ;
+}
+
+.vertical-scroller{
+  background-color:  #D1D1D1;
+  padding: 0px;
+}
+
+.menu-list{
+	width: 35%;
+	background-color:#888888;
+	border: 1px #2F2F2F;
+	border-style: none solid none none;
+
+}
+
+.menu-list-item {
+  padding: 8px 7px 9px 7px;
+  border: 1px #2F2F2F;
+  border-style: solid none;
+  background-color : #4c4c4c;
+  /*background-size: contain;*/
+  color: #ffffff;
+  white-space: nowrap;
+  overflow-y: visible;
+  font-size: 16px;
+}
