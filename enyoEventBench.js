@@ -149,7 +149,7 @@ enyo.kind({
 
 //Outmost Layout
 enyo.kind({
-	name: "App",
+	name: "enyoEventBench",
     kind: "FittableColumns",
     components: [
         {   name: "menuList",
